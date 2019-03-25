@@ -1,0 +1,27 @@
+{
+  "name": "admin_next",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "graphql": "^14.1.1",
+    "grommet": "^2.5.5",
+    "grommet-icons": "^4.2.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-apollo": "^2.5.2",
+    "react-dom": "^16.8.4",
+    "styled-components": "^4.1.3",
+    "styled-reset": "^2.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
