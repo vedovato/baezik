@@ -1,3 +1,3 @@
-// export default React.createContext({
-//   maoe: 'testando saporra de context',
-// })
+import {createContext} from 'react'
+
+export const GlobalContext = createContext({})
